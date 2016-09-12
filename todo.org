@@ -1,0 +1,35 @@
+* *Todo I week /edit time 08.24/*
+1. /sunday/ --- /Make one meetup/ --- prepate for monday presentation
+2. /moday/ /devide company actives/
+
+** *საკითხები*
+1. გვინდა თუ არა გეგმის გაწერა
+2. კომპანიის წილის დაყოფა
+
+** *Hardware*
+1. testing citcuit
+2. build next prototypes
+3. install first prototype
+   
+** *MCU software*
+1. write send events
+2. test for hang and reset
+3. add order functionality
+
+** *Server*
+   
+*** Until friday
+1. add fetchAll for specific data ex. fetchAll('users')
+2. make new frontend
+3. add exception handlers
+4. correct bugs
+5. write mobile client and test billing
+
+*** Saturday - Sunday
+1. Deploy with Apache server on Digitalocean
+2. Test Bugs
+   
+*** for deployment
+1. include all js libraries localy
+2. 
+
